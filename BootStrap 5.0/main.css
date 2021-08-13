@@ -1,0 +1,126 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.img-fluid {
+  max-width: 101%;
+  height: auto;
+}
+
+/***nav bar **/
+.navcontainer {
+  width: 100.7%;
+}
+.containerNav {
+  padding: 5px 5%;
+
+  font-size: 20px;
+  background-image: linear-gradient(
+    to right,
+    #8362b9,
+    #7751b5,
+    #6a3fb1,
+    #5c2cad,
+    #4d14a8
+  );
+  width: 100%;
+}
+.containerNav .navbar-brand h1 {
+  font-size: 25px;
+}
+.containerNav .nav-link,
+a {
+  color: white;
+  padding-right: 20px;
+}
+.nav-item {
+  margin-right: 40px;
+}
+
+.navbar-toggler {
+  padding: 0.25rem 0.75rem;
+  font-size: 2rem;
+  color: white;
+}
+
+.main1 {
+  padding-top: 100px;
+  margin-bottom: 60px;
+  background-image: linear-gradient(
+    to right,
+    #8362b9,
+    #7751b5,
+    #6a3fb1,
+    #5c2cad,
+    #4d14a8
+  );
+}
+.main1-1 {
+  margin-top: 40px;
+  text-align: center;
+  color: white;
+}
+
+.main2 {
+  text-align: center;
+  padding: 50px 0;
+}
+
+.main2 img {
+  width: 100px;
+  height: 102px;
+  margin: 50px 0;
+}
+.main3 {
+  text-align: center;
+  padding: 50px 0;
+}
+
+.main3 h1 {
+  margin-bottom: 20px;
+}
+
+.main4 {
+  text-align: center;
+  padding: 40px 0;
+  border: 1px solid purple;
+  border-radius: 10px;
+  margin-bottom: 80px;
+}
+.main5 {
+  padding: 80px 0;
+  text-align: center;
+}
+.main5 img {
+  width: 100px;
+}
+.main5 img:hover {
+  margin-top: -10px;
+}
+.main6 {
+  background-image: linear-gradient(
+    to right,
+    #8362b9,
+    #7751b5,
+    #6a3fb1,
+    #5c2cad,
+    #4d14a8
+  );
+  color: white;
+  text-align: center;
+}
+
+.main6-1 {
+  padding: 40px 5%;
+}
+.main6-1 .col-lg-4 {
+  margin: 40px 0;
+}
+.main6 ul li {
+  list-style-type: none;
+  font-size: 20px;
+}
+.main6 .footer {
+  text-align: center;
+}
